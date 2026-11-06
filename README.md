@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project using **900,000+ Philadelphia police incident reports**. I combined and cleaned the data in **MySQL**, checked my numbers, and built an interactive dashboard in **Power BI**.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png.png)
 
 ---
 
@@ -62,7 +62,7 @@ How has crime in Philadelphia changed since 2020, and what patterns show up by c
 | File | Description |
 |---|---|
 | `crime_data_analysis.sql` | All SQL: setup, cleaning, validation, and analysis |
-| `images/dashboard.png` | Dashboard screenshot |
+| `images/dashboard.png.png` | Dashboard screenshot |
 
 ## How to Reproduce
 
@@ -81,4 +81,4 @@ The hardest part was not writing SQL. It was making sure the data was right. Mis
 
 ---
 
-**Sebastian Ombati** · Business Administration (Data Analytics), DeSales University · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Sebastian Ombati** · Business Administration (Data Analytics), DeSales University · [LinkedIn](https://www.linkedin.com/in/sebastian-ombati-27639b322)
